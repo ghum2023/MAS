@@ -79,7 +79,7 @@ if (-not $args) {
 
     # Verify script integrity & Display Hash
     # ضع قيمة الهاش الخاصة بملفك هنا، أو اتركها كما هي لنسخ الهاش المطبوع عند التشغيل الأول
-    $releaseHash = '3DB49E2723CE28697C22376C5EE4EFF1D7479F748690D01E94D6BE1BE5821698'
+    $releaseHash = '5FBE0C2753508054BC73455DA94B7F2E0361615215A567B1969F2803FFB79E56'
     $stream = New-Object IO.MemoryStream
     $writer = New-Object IO.StreamWriter $stream
     $writer.Write($response)
