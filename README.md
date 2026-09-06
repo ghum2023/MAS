@@ -1,2 +1,2 @@
-# MAS-
+# MAS
 Microsoft-Activation-Scripts-master
