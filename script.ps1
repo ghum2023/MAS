@@ -45,7 +45,7 @@ if (-not $args) {
 
     # استبدل الرابط أدناه برابط الـ Raw المباشر لملف MAS_AIO.cmd الخاص بك على GitHub
     $URLs = @(
-        'https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/MAS_AIO.cmd'
+        'https://raw.githubusercontent.com/ghum2023/MAS/refs/heads/main/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
     )
 
     Write-Progress -Activity "Downloading..." -Status "Please wait"
